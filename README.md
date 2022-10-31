@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, Elixir**
 
-- 💬 Ask me about **node, reactjs, typescript**
+- 💬 Ask me about **node, reactjs, typescript, html, css, javascript**
 
 - 📫 How to reach me **ctjoaomartins@gmail.com**
 
