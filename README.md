@@ -138,3 +138,32 @@ Beyond code, I like working at the intersection of product, data, automation and
 ```txt
 Good software is not only about making something work.
 It is about making it clear, testable, maintainable and useful for the people who depend on it.
+```
+
+I care about:
+
+- Clear naming and readable code
+- Architecture that supports change
+- Testing where it protects real behavior
+- Documentation that helps people move faster
+- Automation that reduces repetitive work
+- Technical decisions connected to business impact
+
+---
+
+## Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/jpg-martins">
+    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ctjoaomartins@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
