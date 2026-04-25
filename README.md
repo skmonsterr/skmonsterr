@@ -1,25 +1,140 @@
-<h1 align="center">Hi 👋, I'm João Martins</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">Hi, I'm João Martins</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skmonsterr&label=Profile%20views&color=0e75b6&style=flat" alt="skmonsterr" /> </p>
+<h3 align="center">
+  Full-Stack Developer focused on TypeScript, Node.js, React and scalable digital solutions
+</h3>
 
-
-- 🔭 I’m currently working on **Gentrop**
-
-- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS**
-
-- 💬 Ask me about **node, reactjs, typescript, html, css, javascript**
-
-- 📫 How to reach me **ctjoaomartins@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jpg-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpg-martins" height="30" width="40" /></a>
-<a href="https://instagram.com/joaaomartins_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaaomartins_" height="30" width="40" /></a>
-<a href="mailto:ctjoaomartins@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="gmail" height="30" width="100" /></a>
+<p align="center">
+  <a href="https://github.com/skmonsterr">
+    <img src="https://komarev.com/ghpvc/?username=skmonsterr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/skmonsterr?tab=followers">
+    <img src="https://img.shields.io/github/followers/skmonsterr?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/jpg-martins">
+    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Martins-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>   </p>
+---
 
+## About me
+
+I'm João Martins, a developer based in São Paulo, Brazil, with a strong interest in building practical, maintainable and business-oriented software.
+
+My public repositories show a consistent focus on the JavaScript and TypeScript ecosystem, especially backend APIs, frontend applications, clean architecture, SOLID principles, automated tests and modern development tooling.
+
+Beyond code, I like working at the intersection of product, data, automation and real business problems. I value clear architecture, readable code, operational reliability and solutions that are useful beyond the first release.
+
+---
+
+## What I work with
+
+- Backend development with Node.js, TypeScript, Fastify, Express, Prisma and TypeORM
+- Frontend development with React, Vite, React Query, Next.js and modern UI patterns
+- API design, authentication, validation, documentation and integration flows
+- Software architecture using SOLID, use cases, repositories and separation of concerns
+- Automated testing, TDD practices, Jest, in-memory repositories and clean project structure
+- CRM, marketing automation, data modeling and integration-oriented solutions
+- Developer experience, documentation, debugging and maintainable delivery processes
+
+---
+
+## Current focus
+
+- Building more robust TypeScript applications
+- Improving architecture for automation and integration projects
+- Exploring AI-assisted workflows for productivity and software quality
+- Turning technical solutions into reliable, usable products
+
+---
+
+## Tech stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,cs" alt="Languages" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,prisma" alt="Backend" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass" alt="Frontend" />
+</p>
+
+### Databases and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,linux,postman,figma" alt="Databases and tools" />
+</p>
+
+---
+
+## Featured repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/template-api-ignite">template-api-ignite</a></h3>
+      <p>TypeScript API template focused on SOLID principles, use cases, repositories, models, Node.js streams and API documentation with Swagger.</p>
+      <p><strong>Stack:</strong> TypeScript, Express, TypeORM, PostgreSQL, Docker, Swagger</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/node-api">node-api</a></h3>
+      <p>Node.js and TypeScript API architecture using SOLID, TDD, Jest, domain experts, use cases and in-memory repositories.</p>
+      <p><strong>Stack:</strong> TypeScript, Node.js, Jest, TDD</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/data-fetching">data-fetching</a></h3>
+      <p>Frontend model for API consumption using React Query, Axios, React Router and Vite.</p>
+      <p><strong>Stack:</strong> React, TypeScript, React Query, Axios, Vite</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/polls">polls</a></h3>
+      <p>Backend project under construction using Fastify, Prisma, Zod and TypeScript.</p>
+      <p><strong>Stack:</strong> TypeScript, Fastify, Prisma, Zod</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/ignite-delivery">ignite-delivery</a></h3>
+      <p>Delivery project using TypeScript, Prisma, JWT and Bcrypt.</p>
+      <p><strong>Stack:</strong> TypeScript, Prisma, JWT, Bcrypt</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/skmonsterr/ignite-projeto01-ts">ignite-projeto01-ts</a></h3>
+      <p>React application with Vite focused on componentization, props, state, immutability, hooks and TypeScript fundamentals.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Vite</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=skmonsterr&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skmonsterr&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skmonsterr&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## How I think about software
+
+```txt
+Good software is not only about making something work.
+It is about making it clear, testable, maintainable and useful for the people who depend on it.
